@@ -1,0 +1,21 @@
+I{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "eleven-elephants-even"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "/2016/star-times-spring-2016"
+    }
+  },
+  "title": "Meet the Star Times high school stars: Spring 2016",
+  "description": "Get to know The Seattle Times' spring 2016 selections for its Star Times all-area teams, honoring the best high-school baseball, softball and soccer players in the Seattle area.",
+  "url": "http://projects.seattletimes.com/2016/star-times-spring-2016/",
+  "slug": "Star Times Spring 2016",
+  "tags": [],
+  "image": "/assets/sts16_social01.JPG",
+  "production": true,
+  "embedded": false,
+  "sheets": ["1sty9YG2klPEyMRIZ9_SUfEdldGEpyKWv1kk-GjvFbmU"]
+}
