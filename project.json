@@ -1,4 +1,4 @@
-I{
+{
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
