@@ -277,7 +277,7 @@ Shims for Flexbox - should work on Safari and IE10+
   display: -ms-flexbox;
   display: flex;
   max-width: 1200px;
-  height: 550px;
+  height: 495px;
   margin: 20px auto 0;
   clear: both;
 }
@@ -323,10 +323,10 @@ Shims for Flexbox - should work on Safari and IE10+
   transition: 0.2s ease-in-out;
 }
 .student {
-  -webkit-flex: 1 0 366px;
-  -ms-flex: 1 0 366px;
-  flex: 1 0 366px;
-  width: 366px;
+  -webkit-flex: 1 0 329.4px;
+  -ms-flex: 1 0 329.4px;
+  flex: 1 0 329.4px;
+  width: 329.4px;
   overflow: hidden;
   position: relative;
 }
@@ -337,7 +337,7 @@ Shims for Flexbox - should work on Safari and IE10+
 }
 .student img {
   max-height: 100%;
-  height: 550px;
+  height: 495px;
 }
 .student.activated::after {
   content: "";
